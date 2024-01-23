@@ -4,6 +4,8 @@
 * * *
 #### Bye there 👋
 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-circle&logo=github&logoColor=blue">
+<img src="https://img.shields.io/badge/Gitea-609926?style=flat-circle&logo=gittea&logoColor=yellow">
 <!--
 **NoodleSh/NoodleSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
