@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=5f74ed&height=250&text=NoodleSh&desc=Hello!&fontColor=ebe1fa&&rotate=16&fontAlignY=33&fontAlign=70&descAlign=84&descAlignY=13)
 
-# NoodleSh😄
+# NoodleSh <img src="https://img.shields.io/badge/GitHub-181717?style=flat-circle&logo=github&logoColor=blue">
 
 #### Hi there  👋
 * * *
