@@ -1,4 +1,8 @@
-### Hi there 👋
+# NoodleSh😄
+
+#### Hi there  👋
+* * *
+#### Bye there 👋
 
 <!--
 **NoodleSh/NoodleSh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
